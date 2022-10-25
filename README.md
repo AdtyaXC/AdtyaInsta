@@ -9,6 +9,8 @@
 
 ```pip install -r requirements.txt```
 
+```termux-setup-storage```
+
 ```rm -rf InstaAdtya```
 
 ```git clone https://github.com/AdtyaXC/AdtyaInsta```
