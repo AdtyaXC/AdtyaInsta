@@ -11,7 +11,7 @@
 
 ```rm -rf InstaAdtya```
 
-```git clone https://github.com/Xyaa-Code/InstaAdtya```
+```git clone https://github.com/Semarang-Code/AdtyaInsta```
 
 ***```sekarang script sudah berhasil di install```***
 
@@ -19,7 +19,7 @@
 
 <sub>***sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini***</sub>
 
-```cd $HOME/InstaAdtya```      
+```cd $HOME/AdtyaInsta```      
 
 ```git pull```
 
