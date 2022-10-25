@@ -27,6 +27,10 @@
 
 ```python run.py```
 
+```📁Results Crack```
+
+[![IMG-20221025-WA0028.jpg](https://i.postimg.cc/FztCxCN7/IMG-20221025-WA0028.jpg)](https://postimg.cc/G8QjLQBC)
+
 <sub><h3 align="left">SCRIPT VERSI 0.6:</h3></sub>
 
     > fix bug login username dan password ✓
