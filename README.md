@@ -11,7 +11,7 @@
 
 ```termux-setup-storage```
 
-```rm -rf InstaAdtya```
+```rm -rf AdtyaInsta```
 
 ```git clone https://github.com/AdtyaXC/AdtyaInsta```
 
