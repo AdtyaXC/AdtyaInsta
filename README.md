@@ -7,8 +7,6 @@
 
 ```pkg install python git```
 
-```pip install -r requirements.txt```
-
 ```termux-setup-storage```
 
 ```rm -rf AdtyaInsta```
@@ -22,6 +20,9 @@
 <sub>***sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini***</sub>
 
 ```cd $HOME/AdtyaInsta```      
+
+```pip install -r requirements.txt```
+
 
 ```git pull```
 
